@@ -1,2 +1,2 @@
-print("fdfdff")
-print("Tagir is the best!")
+print("fdfdffg")
+print("Tagir is the best wrestler!")
