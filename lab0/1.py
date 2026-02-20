@@ -1,2 +1,5 @@
-print("fdfdffg")
-print("Tagir is the best wrestler!")
+
+b = 2
+c = 1
+a = b - c
+print(a, "!!!")
